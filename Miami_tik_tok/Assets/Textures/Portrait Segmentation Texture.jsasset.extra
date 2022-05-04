@@ -1,0 +1,24 @@
+[
+  {
+    "guid": {
+      "a": "9760a759-4a3d-b46b-f44e-a384753a2190",
+      "b": ""
+    },
+    "extraType": "ResItemJSAsset",
+    "name": "Portrait Segmentation Texture",
+    "objGuid": "Guid(6362880731039746613, 3240101093211532689)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "41c6ed0c4254d9f55c950448c4452032",
+    "type": "texture",
+    "subtype": "segmentation",
+    "propertyMap": [
+      {
+        "name": "cutoutTexture",
+        "guid": "00000000-0000-0000-0000-00000000004b"
+      }
+    ]
+  }
+]

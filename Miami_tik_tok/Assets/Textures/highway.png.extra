@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "1457497c-5c79-e0b4-5c26-50b792325a25",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "highway",
+    "objGuid": "Guid(17171494669755462963, 620596954413184148)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "54e6105693dd50297c7c0950546ddede",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

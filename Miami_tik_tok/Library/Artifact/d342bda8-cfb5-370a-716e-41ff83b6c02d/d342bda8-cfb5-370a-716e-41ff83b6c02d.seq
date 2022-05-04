@@ -1,0 +1,19 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: car
+guid: {a: 8088884829536621848, b: 17937466083979367817}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: d342bda8-cfb5-370a-716e-41ff83b6c02d--0.imageatlas}
+  - {localId: 1, path: d342bda8-cfb5-370a-716e-41ff83b6c02d--1.imageatlas}
+memoryLimit: 0
+preload: true
+indexAction:
+  __class: Map
+preloadCount: 0

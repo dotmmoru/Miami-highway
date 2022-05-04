@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "8b7028c4-d1c5-7b08-39e6-d2089f90efae",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "buildings",
+    "objGuid": "Guid(165565368022312472, 8894227705345281192)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "c1d173ae9bd735813e3b095ebff21fbc",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

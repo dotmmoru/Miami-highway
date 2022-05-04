@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "d342bda8-cfb5-370a-716e-41ff83b6c02d",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "car",
+    "objGuid": "Guid(8088884829536621848, 17937466083979367817)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

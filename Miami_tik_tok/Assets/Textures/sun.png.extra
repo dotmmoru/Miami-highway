@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "46bb7a82-9be3-ea70-98c9-33dc6f48a39d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sun",
+    "objGuid": "Guid(6867692746470898931, 11017739842401966735)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "6673cdf8b2ebec2e0b66d3d49f8d59f8",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

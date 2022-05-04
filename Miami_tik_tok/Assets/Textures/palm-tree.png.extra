@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "fcb6ab75-c194-1e7e-7b23-f03400c615cf",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "palm-tree",
+    "objGuid": "Guid(16375444680632783488, 1471260553163829127)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "9d551e2f27b3ebeb05672106cd2eec90",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

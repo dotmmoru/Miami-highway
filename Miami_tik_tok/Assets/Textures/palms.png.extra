@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "85690bd5-3a33-9dcd-81f7-c8c2299e53df",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "palms",
+    "objGuid": "Guid(16162839193305703581, 11574286094373129119)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "29ff1940a2b0f079c05220095b1bcc31",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]
