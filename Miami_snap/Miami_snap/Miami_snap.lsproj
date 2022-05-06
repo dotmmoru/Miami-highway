@@ -3,7 +3,7 @@
     "document_id": "fl0TRTBm5tELFJd3eC6w",
     "original_document_id": "fl0TRTBm5tELFJd3eC6w",
     "version": "29",
-    "lastChanged": "1651685754105",
+    "lastChanged": "1651765838264",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -70,6 +70,9 @@
                         "Black_bot"
                     ],
                     [
+                        "Textures"
+                    ],
+                    [
                         "Textures",
                         "Portrait Background Segmentation"
                     ],
@@ -100,6 +103,64 @@
                     [
                         "Textures",
                         "sun"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy",
+                        "TweenBillboard [DEPRECATED]"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "Tween",
+                        "Visual Scripting Custom Nodes"
+                    ],
+                    [
+                        "Tween",
+                        "Visual Scripting Custom Nodes",
+                        "All Tween Nodes"
                     ]
                 ]
             ]
@@ -109,21 +170,27 @@
                 [
                     "101:100",
                     "1517446348227994:84813",
+                    "1651684958677486:35653",
                     "1651684958686796:35728",
                     "1651684981352058:40771",
-                    "1651684981352417:40773",
+                    "1651685167039251:87627",
                     "1651685305854371:121019",
                     "1651685360636370:136138",
                     "1651685475701815:161342",
-                    "1651685622838524:196451"
+                    "1651685622838524:196451",
+                    "1651685696754008:219502"
                 ]
             ],
             "selectionSetList": ""
         },
         "MetaInfoUIComponent": {
-            "hints": "",
-            "lens": "Untitled",
-            "applicability": "3",
+            "icon_hash": "edd53b1efffa96cffc3fbab7377137a2",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Miami Highway",
+            "applicability": "1",
             "lens_descriptors": "",
             "Spectacles2021UseAllowed": "false"
         },
@@ -162,7 +229,16 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1651684782164162:12317"
+                    "1651684782164162:12317",
+                    "1651684958765678:35893",
+                    "1651684958773901:36043",
+                    "1651685305865244:121172",
+                    "1651685305878166:121326",
+                    "1651685475723931:161936",
+                    "1651685475731948:162087",
+                    "1651685622859992:197045",
+                    "1651685696775324:220096",
+                    "1651685696783942:220247"
                 ]
             ]
         },
@@ -173,10 +249,10 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1651685410716193:147909"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
-            "active_graph_asset": "-1:-1"
+            "active_graph_asset": "1651764858979743:58702"
         },
         "VFX::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -336,6 +412,86 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1651764856996761:58558",
+                    "name": "Files\/File50.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1651764857049684:58570",
+                    "name": "Files\/File51.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1651764857100433:58586",
+                    "name": "Files\/File52.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1651764857146086:58602",
+                    "name": "Files\/File53.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1651764857191568:58618",
+                    "name": "Files\/File54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1651764857235435:58634",
+                    "name": "Files\/File55.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1651764858835511:58650",
+                    "name": "Files\/File56.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1651764858901257:58666",
+                    "name": "Files\/File57.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1651764858937158:58682",
+                    "name": "Files\/File58.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1651764858979743:58702",
+                    "name": "Files\/File59",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -387,8 +543,8 @@
                                 "isBasicMode": "true",
                                 "basicModeSetup": {
                                     "fixWidth": "false",
-                                    "fixHeight": "true",
-                                    "attachBottom": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
                                     "attachLeft": "true",
                                     "attachRight": "true",
                                     "attachTop": "true"
@@ -468,7 +624,7 @@
                         {
                             "k": "1651685305865244:121172",
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "false",
                                 "basicModeSetup": {
                                     "fixWidth": "false",
                                     "fixHeight": "false",
@@ -621,7 +777,8 @@
                 "20": "1651685622838524:196451",
                 "21": "1651685622849155:196746",
                 "22": "1651685696754008:219502",
-                "23": "1651685696764626:219797"
+                "23": "1651685696764626:219797",
+                "24": "1651764860265561:58852"
             }
         },
         "LayerComponent": {
@@ -837,6 +994,50 @@
                 {
                     "k": "49",
                     "v": "Files\/File49.lsmat"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.js"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.js"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.js"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.js"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.js"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.js"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.js"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.js"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.js"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.lsscript"
                 }
             ]
         },
@@ -919,6 +1120,62 @@
                     {
                         "k": "983",
                         "v": "Materials\/Back_highway.lsmat"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Tween"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "987",
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    },
+                    {
+                        "k": "988",
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    },
+                    {
+                        "k": "989",
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "990",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "991",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
+                    },
+                    {
+                        "k": "992",
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    },
+                    {
+                        "k": "993",
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "994",
+                        "v": "Tween\/Tween.js"
+                    },
+                    {
+                        "k": "995",
+                        "v": "Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "996",
+                        "v": "Tween\/Visual Scripting Custom Nodes"
+                    },
+                    {
+                        "k": "997",
+                        "v": "Tween\/Visual Scripting Custom Nodes\/All Tween Nodes.lsscript"
                     }
                 ],
                 "hashes": [
@@ -972,188 +1229,149 @@
                     },
                     {
                         "k": "980",
-                        "v": "0d23692247d84100e6eda32447141a81"
+                        "v": "f91bd610077ec97e7f89a8d0442579b5"
                     },
                     {
                         "k": "981",
-                        "v": "681ac803fcc180c991e2c464b3567f3b"
+                        "v": "b3c855c778dd38275374d74422dd55c2"
                     },
                     {
                         "k": "982",
-                        "v": "7d347d943ad3a3cc61afd0cc26c5561c"
+                        "v": "73c88f2626a8bb513b426346f90f0357"
                     },
                     {
                         "k": "983",
-                        "v": "69420c49ec7c682ffaaa05a61a5af8f4"
+                        "v": "cce109763480cd9e1decd7855bc04567"
+                    },
+                    {
+                        "k": "986",
+                        "v": "e5db9d5b19168d2008aa4b1cf1fd13b1"
+                    },
+                    {
+                        "k": "987",
+                        "v": "437455d53d41309951dcb1ad5d24e6e7"
+                    },
+                    {
+                        "k": "988",
+                        "v": "7c7653600093a2c804702ef45a2c188a"
+                    },
+                    {
+                        "k": "989",
+                        "v": "f8e4cbb0fbfa3d4139c98bed9e23ec3f"
+                    },
+                    {
+                        "k": "991",
+                        "v": "cb227cae25f08b1eb6956339486b5f7b"
+                    },
+                    {
+                        "k": "992",
+                        "v": "4c94fe9a543a43e8aa2f10efc3c31867"
+                    },
+                    {
+                        "k": "993",
+                        "v": "1987dfec5b53836cae47c4a678217167"
+                    },
+                    {
+                        "k": "994",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "995",
+                        "v": "b89e3f7e5bb9e99c64ac1d2ce692bf29"
+                    },
+                    {
+                        "k": "997",
+                        "v": "c0acb2dadfffb74eb3a6fa563e16fb8b"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "19bad114d394c6f678324a58945e8f6e"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "c5483df2cd6cd709a1a7669ec05f1959"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "b800ca9e6e3478528c2a7a0f1981b6a9"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "4f1e49e60e9e7e5475cb68d9a5469686"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-05-04T20:29:57",
+                        "lastModified": "2022-05-05T18:34:17",
                         "name": "Public",
-                        "hash": "b495f97fb606aed68fa697dddab2593b",
+                        "hash": "9c1f00817faa439b56f37933e178bf61",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-05-04T20:30:10",
-                                "name": "Textures",
-                                "hash": "6fe031088a36cfe9e3f558422593d8cc",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2021-12-31T06:14:49",
-                                        "name": "buildings.png",
-                                        "hash": "c1d173ae9bd735813e3b095ebff21fbc",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2021-12-31T06:15:30",
-                                        "name": "palm-tree.png",
-                                        "hash": "9d551e2f27b3ebeb05672106cd2eec90",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-01-03T06:57:02",
-                                        "name": "highway.png",
-                                        "hash": "54e6105693dd50297c7c0950546ddede",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2021-12-31T04:00:32",
-                                        "name": "sun.png",
-                                        "hash": "6673cdf8b2ebec2e0b66d3d49f8d59f8",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:30:10",
-                                        "name": "White.png",
-                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2021-12-31T06:14:29",
-                                        "name": "back.png",
-                                        "hash": "80f19b25dc0c960984b905e1250b505a",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:20:55",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2021-12-31T06:15:52",
-                                        "name": "palms.png",
-                                        "hash": "29ff1940a2b0f079c05220095b1bcc31",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-05-04T20:35:21",
-                                "name": "Materials",
-                                "hash": "511b3db724f7c3a6b2b243406b85805a",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:30:10",
-                                        "name": "Black_bot.lsmat",
-                                        "hash": "96117230d370a338ef89e4b3cb273824",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:31:40",
-                                        "name": "Back_Palms.lsmat",
-                                        "hash": "688d62bfd3043933996ddbe23f8c8aa7",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:34:16",
-                                        "name": "Back_City.lsmat",
-                                        "hash": "27dc9ef487cade29eca0c6b89a4e3f51",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:35:09",
-                                        "name": "Back_highway.lsmat",
-                                        "hash": "2de6a4dab13d5e1ba566731eb0c9ffc4",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:29:50",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2022-05-04T20:22:15",
+                                "lastModified": "2022-05-05T11:10:59",
                                 "name": "Animation",
                                 "hash": "9e6426e24369b3cf132e58c6f74b2c3c",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-05-04T20:21:38",
+                                        "lastModified": "2022-05-05T11:10:59",
                                         "name": "animation_car_1",
                                         "hash": "70a6733ba7b00b223024d77caf24327a",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-05-04T20:21:38",
-                                                "name": "atlas_0.png",
-                                                "hash": "864374d65e5f97897e7a289115894fc6",
+                                                "lastModified": "2022-05-05T11:10:59",
+                                                "name": "animation.t3d",
+                                                "hash": "e3ee86b16d6ae45b27bc67f115db2eef",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-05-04T20:21:38",
-                                                "name": "animation.t3d",
-                                                "hash": "e3ee86b16d6ae45b27bc67f115db2eef",
+                                                "lastModified": "2022-05-05T11:10:59",
+                                                "name": "atlas_0.png",
+                                                "hash": "864374d65e5f97897e7a289115894fc6",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-05-04T20:22:02",
+                                        "lastModified": "2022-05-05T11:10:59",
                                         "name": "animation_car_2",
                                         "hash": "d3a08e2d9e41b7c18674ef08f19048a4",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-05-04T20:22:02",
-                                                "name": "atlas_0.png",
-                                                "hash": "47dfebf28e28d8a4bacf1de52e37cea5",
+                                                "lastModified": "2022-05-05T11:10:59",
+                                                "name": "animation.t3d",
+                                                "hash": "7656acf996350f4b78bf221cb7ce92f2",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-05-04T20:22:02",
-                                                "name": "animation.t3d",
-                                                "hash": "7656acf996350f4b78bf221cb7ce92f2",
+                                                "lastModified": "2022-05-05T11:10:59",
+                                                "name": "atlas_0.png",
+                                                "hash": "47dfebf28e28d8a4bacf1de52e37cea5",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-05-04T20:21:07",
+                                        "lastModified": "2022-05-05T11:10:59",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1162,17 +1380,254 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-04-25T21:07:40",
+                                "lastModified": "2022-05-05T11:10:59",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-04-25T21:07:40",
+                                "lastModified": "2022-05-05T11:10:59",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-05-05T18:49:24",
+                                "name": "Materials",
+                                "hash": "8fa336c8572535f543e268c0d1810de0",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:49:24",
+                                        "name": "Back_City.lsmat",
+                                        "hash": "75364b37063ab52f67ff6e8839a71596",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:49:24",
+                                        "name": "Back_highway.lsmat",
+                                        "hash": "0fc665a9f2dd145ff8a1028f74c2d287",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:49:24",
+                                        "name": "Back_Palms.lsmat",
+                                        "hash": "a4ab1cde129b1b68c74cef57c725988a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:49:24",
+                                        "name": "Black_bot.lsmat",
+                                        "hash": "ecd180e14af91ffbbf346983d3ab6b1b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-05-05T11:10:59",
+                                "name": "Textures",
+                                "hash": "6fe031088a36cfe9e3f558422593d8cc",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "back.png",
+                                        "hash": "80f19b25dc0c960984b905e1250b505a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "buildings.png",
+                                        "hash": "c1d173ae9bd735813e3b095ebff21fbc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "highway.png",
+                                        "hash": "54e6105693dd50297c7c0950546ddede",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "palm-tree.png",
+                                        "hash": "9d551e2f27b3ebeb05672106cd2eec90",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "palms.png",
+                                        "hash": "29ff1940a2b0f079c05220095b1bcc31",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "sun.png",
+                                        "hash": "6673cdf8b2ebec2e0b66d3d49f8d59f8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T11:10:59",
+                                        "name": "White.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-05-05T18:35:05",
+                                "name": "Tween",
+                                "hash": "bd68c8a1604e78e59aa32f84778f4d0b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:34:17",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:34:16",
+                                        "name": "Tween.js",
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-05T18:34:16",
+                                        "name": "TweenManager.js",
+                                        "hash": "b89e3f7e5bb9e99c64ac1d2ce692bf29",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-05T18:34:18",
+                                        "name": "TweenTypes",
+                                        "hash": "125ce0193b7a67361a1565a9f00a51a8",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:17",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-05-05T18:34:17",
+                                                "name": "Legacy",
+                                                "hash": "95017f52c2e32f68d5b79570b70684bc",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-05-05T18:34:17",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-05-05T18:34:16",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "cb227cae25f08b1eb6956339486b5f7b",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:16",
+                                                "name": "TweenAlpha.js",
+                                                "hash": "f8e4cbb0fbfa3d4139c98bed9e23ec3f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:16",
+                                                "name": "TweenChain.js",
+                                                "hash": "4c94fe9a543a43e8aa2f10efc3c31867",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:16",
+                                                "name": "TweenColor.js",
+                                                "hash": "7c7653600093a2c804702ef45a2c188a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:16",
+                                                "name": "TweenScreenTransform.js",
+                                                "hash": "1987dfec5b53836cae47c4a678217167",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:16",
+                                                "name": "TweenTransform.js",
+                                                "hash": "e5db9d5b19168d2008aa4b1cf1fd13b1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:16",
+                                                "name": "TweenValue.js",
+                                                "hash": "437455d53d41309951dcb1ad5d24e6e7",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-05T18:46:03",
+                                        "name": "Visual Scripting Custom Nodes",
+                                        "hash": "90e6b8b415271474fc299c78a4681960",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:46:02",
+                                                "name": "All Tween Nodes.lsscript",
+                                                "hash": "c0acb2dadfffb74eb3a6fa563e16fb8b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-05T18:34:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -1539,6 +1994,210 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Tween",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "984",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TweenTypes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "985",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764856996761:58558",
+                                        "fileId": "50",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "986",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764857049684:58570",
+                                        "fileId": "51",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "987",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764857100433:58586",
+                                        "fileId": "52",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "988",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764857146086:58602",
+                                        "fileId": "53",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "989",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "990",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "31",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1651764857191568:58618",
+                                                "fileId": "54",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "991",
+                                                "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764857235435:58634",
+                                        "fileId": "55",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "992",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenScreenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764858835511:58650",
+                                        "fileId": "56",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "993",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1651764858901257:58666",
+                                "fileId": "57",
+                                "originalId": "18446744073709551615",
+                                "publicId": "994",
+                                "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1651764858937158:58682",
+                                "fileId": "58",
+                                "originalId": "18446744073709551615",
+                                "publicId": "995",
+                                "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Visual Scripting Custom Nodes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "996",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "All Tween Nodes",
+                                        "type": "4",
+                                        "subtype": "1",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1651764858979743:58702",
+                                        "fileId": "59",
+                                        "originalId": "60",
+                                        "publicId": "997",
+                                        "source": "C:\/Users\/Pavel Ivasiuk\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaGKDdlAJdFqF\/\/system\/\/emergencyFiles\/emergencyGraph.lsscript",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -1546,7 +2205,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1651685360636370:136138"
+                    "1651685118110755:72132"
                 ]
             }
         },
